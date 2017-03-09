@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+java_pid15820.hprof
+out/
+src/
+test.txt
+textProject.iml
+web/
